@@ -1,1 +1,1 @@
-# ineuron-data-dcience-assignments
+# python-assignments for practise
